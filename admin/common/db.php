@@ -5,7 +5,7 @@ $dbPass = "9pmRWEc4;Hn%";
 $dbDatabase = "mediates_elite";
 $web_url = "http://174.121.85.124/~mediates/design_benefits/";
 */
-$dbHost = "Data Source=us-cdbr-azure-west-a.cloudapp.net";
+$dbHost = "us-cdbr-azure-west-a.cloudapp.net";
 $dbUser = "b075c74642244c";
 $dbPass = "e2e1219d";
 $dbDatabase = "zagtest";

@@ -1,0 +1,54 @@
+.ddcolortabs{
+	padding: 0;
+	width: 100%;
+	background: transparent;
+	voice-family: "\"}\"";
+	voice-family: inherit;
+	text-align:center;
+	color:#FFFFFF;
+}
+
+.ddcolortabs ul{
+	font: normal 11px Arial, Verdana, sans-serif;
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+
+.ddcolortabs li{
+	display:inline;
+	margin:0 2px 0 0;
+	padding:0;
+	text-decoration:none;
+}
+
+/* ######### Style for Drop Down Menu ######### */
+
+.dropmenudiv_a{
+	position:absolute;
+	margin-top:5px;
+	font:normal 11px Arial;
+	line-height:15px;
+	z-index:100;
+	background-color: #000;
+	width: 150px;
+	visibility: hidden;
+	text-align:left;
+	color:#FFFFFF;
+}
+
+.dropmenudiv_a a{
+	width: auto;
+	display: block;
+	text-indent: 5px;
+	border-top: 0 solid #ffffff;
+	border-bottom: 1px solid #ffffff; /*THEME CHANGE HERE*/
+	padding: 2px 0;
+	text-decoration: none;
+	color: black;
+	color:#FFFFFF;
+}
+
+* html .dropmenudiv_a a{ /*IE only hack*/
+	width: 100%;
+}

@@ -1,0 +1,80 @@
+﻿th {
+color: #324760;
+border-right: 1px solid #c7d1ef;
+border-bottom: 1px solid #c7d1ef;
+border-top: 1px solid #c7d1ef;
+text-align: left;
+padding: 6px 6px 6px 12px;
+background:#ccc no-repeat;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size:12px;
+}
+
+th.links { text-align:center; }
+
+th.nobg {
+border-top: 0;
+border-left: 0;
+border-right: 1px solid #C1DAD7;
+background: none;
+}
+
+td.reg {
+border-right: 1px solid #c7d1ef;
+border-bottom: 1px solid #c7d1ef;
+background: #fff;
+padding: 6px 6px 6px 12px;
+color: #4f6b72;
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt;
+}
+
+td.regro {
+border-right: 1px solid #c7d1ef;
+border-bottom: 1px solid #c7d1ef;
+background: #f0f0f0;
+padding: 6px 6px 6px 12px;
+color: #4f6b72;
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt;
+}
+
+td.alt {
+border-right: 1px solid #c7d1ef;
+border-bottom: 1px solid #c7d1ef;
+padding: 6px 6px 6px 12px;
+background: #f5f7fa;
+color: #797268;
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt;
+}
+
+td.altro {
+border-right: 1px solid #c7d1ef;
+border-bottom: 1px solid #c7d1ef;
+padding: 6px 6px 6px 12px;
+background: #e7e7e7;
+color: #797268;
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt;
+}
+
+th.spec {
+border-left: 1px solid #C1DAD7;
+border-top: 0;
+background: #fff;
+}
+
+th.specalt {
+border-left: 1px solid #C1DAD7;
+border-top: 0;
+background: #f5fafa;
+color: #797268;
+}
+
+td.warning {
+border-left: 1px solid #c7d1ef;
+border-right: 1px solid #c7d1ef;
+border-bottom: 1px solid #c7d1ef;
+background: #ffcccc;
+padding: 6px 6px 6px 12px;
+color: #ff0000;
+font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt;
+font-weight: bold;
+}
